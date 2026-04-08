@@ -1,0 +1,98 @@
+<!doctype html>
+<html lang="cs">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Karlův most — FAQ</title>
+  <meta name="description" content="Krátké FAQ k Karlovu mostu se zdrojovanými odkazy." />
+  <link rel="manifest" href="site-manifest.json" />
+  <link rel="stylesheet" href="assets/styles.css" />
+</head>
+<body>
+  <a class="skip-link" href="#main">Přejít na obsah</a>
+
+  <header class="site-header">
+    <div class="container navbar">
+      <a class="brand" href="index.html" aria-label="Karlův most — domů">
+        <span class="brand-mark" aria-hidden="true"></span>
+        <span class="brand-title">Karlův most</span>
+      </a>
+      <nav class="nav-links" aria-label="Hlavní navigace">
+        <a href="index.html">Úvod</a>
+        <a href="history.html">Historie</a>
+        <a href="statues.html">Sochy</a>
+        <a href="sources.html">Zdroje</a>
+        <a href="faq.html" aria-current="page">FAQ</a>
+      </nav>
+    </div>
+  </header>
+
+  <main id="main" class="main">
+    <div class="container hero" style="padding-top:26px">
+      <section id="site-manifest-faq" class="section" aria-labelledby="faq-title">
+        <h2 id="faq-title">FAQ</h2>
+        <p class="muted">Odpovědi jsou krátké a směrují na zdroje, které obsahují podrobné informace.</p>
+
+        <div class="faq" role="list">
+          <details>
+            <summary>Kde najdu konkrétní informace o Karlově mostě?</summary>
+            <p>
+              Začněte na stránce <a href="sources.html">Zdroje</a> a otevřete odkazy na Prague City Tourism a Muzeum Karlova mostu.
+            </p>
+          </details>
+
+          <details>
+            <summary>Jak dohledat historii vzniku?</summary>
+            <p>
+              Základní datum zahájení stavby (9. 7. 1357 v 5:31) a širší historický kontext najdete ve zdroji <a href="sources.html#s-wiki">Wikipedie</a>.
+            </p>
+          </details>
+
+          <details>
+            <summary>Kde najdu informace o architektuře a vzhledu?</summary>
+            <p>
+              Rozměry mostu, gotický charakter a přehled výzdoby najdete v <a href="sources.html#s-wiki">encyklopedickém přehledu</a>; kontext lokality doplňuje <a href="sources.html#s-prague">Prague City Tourism</a>.
+            </p>
+          </details>
+
+          <details>
+            <summary>Existuje muzeum zaměřené na Karlův most?</summary>
+            <p>
+              Ano — odkaz je na <a href="sources.html#s-muzeum">Muzeum Karlova mostu</a>.
+            </p>
+          </details>
+
+          <details>
+            <summary>Kolik soch je na Karlově mostě?</summary>
+            <p>
+              Na mostě je uváděno 30 soch svatých. Viz <a href="sources.html#s-wiki">Wikipedie — Karlův most</a>.
+            </p>
+          </details>
+        </div>
+
+        <div class="hr"></div>
+        <p class="muted">
+          Další krok: <a href="sources.html">Zdroje</a>.
+        </p>
+    <details><summary>Iterační FAQ: Co se změnilo?</summary><p>Byla sjednocena navigace a přidána nová podstránka.</p></details>
+    </section>
+
+      <section class="section" aria-labelledby="faq-zdroje">
+        <h2 id="faq-zdroje">Zdroje</h2>
+        <p class="muted">Přehled zdrojů a důvěryhodnosti: <a href="sources.html">sources.html</a>.</p>
+      </section>
+    </div>
+  </main>
+
+  <footer>
+    <div class="container footer-grid">
+      <div class="badge">Zpět na <a href="index.html">úvod</a></div>
+      <div>© <span id="year">2026</span> • Statický web</div>
+    </div>
+  </footer>
+
+  <script>
+    document.getElementById('year').textContent = new Date().getFullYear();
+  </script>
+</body>
+</html>
