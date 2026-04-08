@@ -1,0 +1,183 @@
+{
+  "subject": "Karlově mostě o dvě nové stránky history",
+  "sourceList": [
+    {
+      "url": "https://cs.wikipedia.org/wiki/Karl%C5%AFv_most",
+      "title": "Karlův most – Wikipedie",
+      "priority": "trusted",
+      "usedInFacts": false,
+      "freshness": "unknown",
+      "weakSource": false
+    },
+    {
+      "url": "https://www.muzeumkarlovamostu.cz/cz",
+      "title": "Muzeum Karlova Mostu",
+      "priority": "secondary",
+      "usedInFacts": false,
+      "freshness": "unknown",
+      "weakSource": false
+    },
+    {
+      "url": "https://www.megastroj.cz/clanky/karluv-most-historie-stavba-a-zajimavosti-jedne-z-nejvetsich-pamatek-prahy_3066",
+      "title": "Karlův most: Historie, stavba a zajímavosti jedné z největších památek Prahy",
+      "priority": "secondary",
+      "usedInFacts": false,
+      "freshness": "unknown",
+      "weakSource": false
+    }
+  ],
+  "verifiedFacts": [],
+  "factsWithConfidence": [],
+  "factBindings": [
+    {
+      "factId": "F001",
+      "claim": "Insufficient verified facts; section is generated in cautious factual mode.",
+      "confidence": "low",
+      "sourceUrl": "https://cs.wikipedia.org/wiki/Karl%C5%AFv_most",
+      "sourcePriority": "trusted",
+      "sourceFreshness": "unknown",
+      "targetSectionId": "cautious-summary",
+      "targetSectionTitle": "Cautious Summary",
+      "pagePath": "index.html",
+      "timeSensitive": false
+    }
+  ],
+  "uncertainFacts": [
+    "Karlův most vznikal jako nástupce staršího Juditina mostu; doba a kontext stavby jsou popsány v přehledech (viz zdroje).",
+    "Stavební zahájení Karlova mostu se váže k osobě Karla IV. a je uváděno konkrétní datum (ověřit v citovaném textu zdroje).",
+    "Důležité milníky výstavby (etapy stavby, doba dokončení a následné události) jsou v historických přehledech popsány v chronologické podobě (ověřit přesné formulace v citovaných zdrojích).",
+    "Sochařská výzdoba Karlova mostu zahrnuje řadu soch a sousoší (výběr a popisy jsou dostupné ve zdrojích).",
+    "Význam vybraných soch/sousoší souvisí s náboženskou ikonografií a dobovým ideovým programem (ověřit konkrétní interpretace ve zdrojích).",
+    "Zajímavosti o sousoších (např. původ, autoři, datace, nebo souvislosti se svými tématy) je možné opřít o texty z poskytnutých zdrojů (ověřit konkrétní údaje)."
+  ],
+  "excludedFacts": [],
+  "sourceConflicts": [],
+  "contentAngles": [
+    "Časová osa vzniku a proměn mostu v dějinách Prahy (od zahájení stavby po novodobé zásahy/restaurování).",
+    "Milníky spojené s politickým a městským vývojem Prahy (panovník, urbanistické souvislosti, význam přechodu přes Vltavu).",
+    "Sochařská výzdoba jako náboženský/ikonografický program (význam témat a propojení s dobou vzniku).",
+    "Vybraná sousoší: proč právě ta (ikonografie, kontext, případně původ/autorství/datace podle zdrojů)."
+  ],
+  "recommendedSections": [
+    "history.html",
+    "Úvod: proč je Karlův most klíčový pro dějiny Prahy",
+    "Časová osa vzniku (zahájení → výstavba → dokončení / zásadní mezníky)",
+    "Karlův most v dějinách města (proměny role mostu v Praze)",
+    "Sochařství a další vrstvy významu v historickém kontextu (přesměrování na statues.html)",
+    "Závěr: odkaz Karlova mostu a jeho kontinuita v čase (s odkazy na zdroje)",
+    "statues.html",
+    "Úvod: co tvoří sochařskou výzdobu a jak souvisí s ikonografií mostu",
+    "Přehled výzdoby (stručný systém: sochy vs. sousoší; volba strukturálního rámečku dle zdroje)",
+    "Význam soch: základní tematické okruhy (svatí, motivy ochrany, víra a patrocinium — formulovat dle textu zdroje)",
+    "Vybraná sousoší: zajímavosti (původ, datace, kontext tématu — pouze to, co bude dohledatelné ve zdrojích)",
+    "Závěr: jak číst výzdobu při návštěvě (odkaz na mapové/edukační zdroje v projektu)"
+  ],
+  "researchPlan": {
+    "subject": "Karlově mostě o dvě nové stránky history",
+    "mainResearchQuestions": [
+      "Jaké jsou přesné datace a milníky výstavby Karlova mostu (zahájení, klíčové etapy, dokončení) a jak se liší v jednotlivých pramenech?",
+      "Jak Karlův most zapadá do širšího kontextu dějin Prahy (vláda Karla IV., urbanistický rozvoj Starého Města a Malé Strany, rola mostu v dopravě a obraně), včetně relevantních let a událostí?",
+      "Které sochy a sousoší jsou na Karlově mostě (zejména na jižních/ostatních pilířích) a jaké jsou jejich autor, rok vzniku/vztyčení, zadavatel (instituce, řád, donátor) a ikonografický význam?",
+      "Jaké jsou spolehlivé informace o historii jednotlivých soch (původní umístění, restaurování, přesuny poškození, rekonstrukce po událostech typu povodně/poškození, případné verze či zaměření na současnou podobu)?",
+      "Jaké zajímavosti lze uvést bez spekulací: např. původ názvů konkrétních soch/sousoší, dobové souvislosti, symbolika atributů a vztah k patronům či událostem?",
+      "Které vybrané sousoší (z dostupných a významných) stojí za detailnější „zajímavosti“ a jak ověřit fakta (attributy, legenda, objednavatel, dobový význam)?",
+      "Jaké zdroje použít pro faktografii (akademické publikace, památkový katalog, muzejní/NPÚ/hl. město Praha materiály, digitální archivy) a jak ověřit shodu dat u kontroverzních údajů?",
+      "Jak má být časová osa na history.html zpracována tak, aby byla fakticky správná (hranice období, formulace událostí, citace/odkazy na zdroje, jednotný styl data)?",
+      "Jak přesně aktualizovat navigaci: jaké menu položky (včetně nové sekce/odkazu na history.html a statues.html) mají být viditelné a na kterých stránkách to musí být upraveno?",
+      "Jak aktualizovat site-manifest: které nové URL přidat, které případně odebrat, a jak zajistit, že publish-ready build nezlomí routing?",
+      "Co přesně znamená „ukliď publish-ready stav“ pro project-update.html: je-li soubor přítomen, ale není v manifestu ani navigaci, má se odstranit nebo deaktivovat (a podle jakých pravidel projektu)?"
+    ],
+    "criticalInformation": [
+      "Přesná chronologie výstavby a zásadních událostí mostu (data i stručný popis události) pro časovou osu.",
+      "Kulturu-historické zasazení do dějin Prahy s konkrétními datacemi (aspoň rámcově) a korektními souvislostmi.",
+      "Kompletní a fakticky správný seznam soch/sousoší použitých na statues.html (pro každý prvek: název, autor, rok/vztyčení, význam, případně řád/objednavatel).",
+      "Uvedení ikonografického významu a atributů (co znázorňují a proč) pro jednotlivé vybrané sochy/sousoší.",
+      "Ověření názvů a variant názvů (např. jak jsou sochy pojmenované v oficiálních katalozích) a shoda s mapou/rozmístěním.",
+      "Restaurování/poškození: které zásadní události se vztahují k současnému stavu soch a které je vhodné zmiňovat.",
+      "Odkazování na zdroje u klíčových faktů (datumové údaje, autorství, původ) – aby bylo možné dohledání a kontrola."
+    ],
+    "niceToHaveInformation": [
+      "Rychlá „mikrohistorie“ vybraných období (např. barokní doplnění sochařské výzdoby, proměny významu mostu v čase).",
+      "Zajímavosti typu „nejzajímavější atribut“ nebo „méně známý fakt“ u 2–4 sousoší, které vyberete jako reprezentativní.",
+      "Stručné vysvětlení ikonografie (např. jak se uplatňuje symbolika víry, ctností, patronátu).",
+      "Propojení časové osy s některými sochami/sousoší (např. že určitá socha vzniká v návaznosti na barokní období)."
+    ],
+    "prioritySourceTypes": [
+      "Památkové a muzejní autoritní katalogy (NPÚ / Národní památkový ústav, městské sbírky, muzea).",
+      "Odborné knihy a recenzované publikace o Karlově mostě a barokní sochařské výzdobě (historici umění).",
+      "Akademické/odborné články a studie (historie stavebnictví, dějiny Prahy).",
+      "Oficiální městské a kulturní portály Prahy (sekce o Karlově mostě, popisy památkových objektů).",
+      "Digitální archivy a databáze s autorstvími a datací (kde jsou dohledatelné autor/rok a ikonografické údaje).",
+      "Restaurovací zprávy nebo odborné restaurátorské podklady (pokud jsou veřejně dostupné) pro historii konkrétních soch."
+    ],
+    "riskAreas": [
+      "Nesrovnalosti v datování (zejména u dokončování, oprav po událostech a u let vztyčení některých soch).",
+      "Zaměňování původu vs. současného stavu (sochy mohly být přemístěny nebo restaurovány; je nutné uvádět „vztyčeno“ vs. „původně“).",
+      "Chybné autorství nebo záměny autorů v sekundárních zdrojích bez ověření v autoritních katalozích.",
+      "Nejasné názvy sousoší/soch v různých jazykových/variantních přepisech (je nutné sjednotit terminologii podle primárních zdrojů).",
+      "Příliš obecné dějinné tvrzení bez konkrétních dat; časová osa musí být faktická a dohledatelná.",
+      "Technické riziko: neúplná aktualizace navigace (např. zobrazení nové položky jen na některých stránkách) nebo rozpor s URL v manifestu.",
+      "Technické riziko: odstranění/uklizení project-update.html může vyžadovat úpravu referencí (odkazy, build pipeline) – je třeba ověřit, zda soubor není nepřímo zmiňován."
+    ],
+    "timeRelevanceNotes": [
+      "Faktografické údaje o historii a sochách nejsou časově citlivé ve smyslu „aktualizací“, ale je nutné použít nejnovější dostupné restaurátorské/odborné katalogy pro správný současný stav a datace.",
+      "U časové osy uvádějte data v jednom formátu a vyhněte se relativním formulacím typu „v 1. polovině“ bez ověřených přesných let.",
+      "U sochařské výzdoby preferujte uvádění let vzniku/vztyčení a uvádějte, pokud se jedná o opravený/přeinstalovaný prvek (dle dostupných autoritních zdrojů).",
+      "Při technických úpravách (manifest/navigace) ověřte, že změny neovlivní cache a doručování (delivery pack) – publish-ready musí zůstat konzistentní."
+    ]
+  },
+  "sectionPlans": [],
+  "assetPlan": {
+    "hasLogoOpportunity": true,
+    "suggestedImages": [
+      {
+        "type": "photo",
+        "context": "Fotografie Karlova mostu v Praze jako hero snímek nad úvodem stránky (ideálně za denního světla s čitelným obloukem a pozadím).",
+        "relevance": "critical"
+      },
+      {
+        "type": "illustration",
+        "context": "Dobová/rekonstruovaná ilustrace nebo kresba Karlova mostu (historický náhled do období výstavby a proměn).",
+        "relevance": "important"
+      },
+      {
+        "type": "illustration",
+        "context": "Infografická ilustrace „časová osa“ s dvěma označenými milníky – „o dvě nové stránky history“ jako dvě samostatné sekce/uzly.",
+        "relevance": "important"
+      },
+      {
+        "type": "photo",
+        "context": "Detailní záběr na sochy na mostě (např. jedna konkrétní socha u konkrétní kapitoly pro zvýšení factuality).",
+        "relevance": "optional"
+      },
+      {
+        "type": "logo",
+        "context": "Logo projektu/kanálu (např. město, historický magazín nebo muzeum) v záhlaví nebo v boxu u úvodního textu jako značka zdroje.",
+        "relevance": "optional"
+      }
+    ],
+    "colorScheme": "Teplá kamenná béžová a krémová (vizuál historických podkladů) + akcenty pražské červené a tmavě modré (kontrast pro text a ikony).",
+    "visualStyle": "Moderní ediční design s historickým nádechem: jemná papírová struktura/„parchment“ pozadí, typografie inspirovaná knihami, prvky časové osy a mapové kompasové akcenty.",
+    "iconPlacementSuggestions": [
+      "Ikony knihy/stránek u názvů dvou nových sekcí (sekce 1 a 2).",
+      "Ikona hodin nebo kalendáře v hlavičce časové osy pro kontext chronologie.",
+      "Ikona lokality (pin/most) vedle mapového prvku nebo zmínky o místě.",
+      "Ikona mezníku (milník/diamant) u každého bodu na časové ose „dvě nové stránky history“.",
+      "Malé ikony detailů (kamenná socha/architektura) u odrážek s faktickými informacemi."
+    ]
+  },
+  "notes": [
+    "Subject: Karlově mostě o dvě nové stránky history",
+    "Task type: factual-info-page",
+    "Sources fetched: 3",
+    "Verified facts (raw): 0",
+    "Facts with confidence scoring (raw): 0",
+    "Source conflicts detected: 0",
+    "Excluded facts (raw): 0",
+    "Verified facts (filtered): 0",
+    "Facts with confidence (filtered): 0",
+    "Excluded facts (final): 0",
+    "Low fact count: používej opatrný stručný výstup a přidej zdroje."
+  ],
+  "researchInsufficientWarning": "Warning: No high-confidence facts found. Use cautious, brief output or request user to clarify scope."
+}
