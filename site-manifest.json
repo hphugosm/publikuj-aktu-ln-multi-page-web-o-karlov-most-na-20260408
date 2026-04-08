@@ -34,12 +34,6 @@
       "navLabel": "FAQ",
       "homepage": false,
       "pageType": "faq"
-    },
-    {
-      "path": "project-update.html",
-      "title": "Aktualizace projektu",
-      "navLabel": "Aktualizace",
-      "pageType": "update"
     }
   ],
   "sharedAssets": [
