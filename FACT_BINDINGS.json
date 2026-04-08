@@ -1,0 +1,17 @@
+{
+  "subject": "Karlově mostě o dvě nové stránky history",
+  "bindings": [
+    {
+      "factId": "F001",
+      "claim": "Insufficient verified facts; section is generated in cautious factual mode.",
+      "confidence": "low",
+      "sourceUrl": "https://cs.wikipedia.org/wiki/Karl%C5%AFv_most",
+      "sourcePriority": "trusted",
+      "sourceFreshness": "unknown",
+      "targetSectionId": "cautious-summary",
+      "targetSectionTitle": "Cautious Summary",
+      "pagePath": "index.html",
+      "timeSensitive": false
+    }
+  ]
+}
